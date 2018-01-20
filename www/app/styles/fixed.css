@@ -1,0 +1,21 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2018 App Builder - https://www.davidesperalta.com
+ */
+
+/* App auto generated CSS */
+
+html, body, .appView { width: 320px; height: 480px; }
+
+.dialogView .modal-dialog { width: 320px; margin: 0 auto; }
+
+#EventsTextarea { position: absolute; top: 8px; left: 8px; width: 304px; height: 368px; }
+
+#Button1 { position: absolute; top: 384px; left: 8px; width: 144px; height: 40px; }
+
+#Button2 { position: absolute; top: 384px; left: 168px; width: 144px; height: 40px; }
+
+#Button3 { position: absolute; top: 432px; left: 8px; width: 144px; height: 40px; }
+
+#Button4 { position: absolute; top: 432px; left: 168px; width: 144px; height: 40px; }
